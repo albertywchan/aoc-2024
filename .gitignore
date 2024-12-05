@@ -1,11 +1,14 @@
 # Advent of Code copyright (https://adventofcode.com/about#legal)
 */input.txt
 
+# Other
+template.py
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-.DS_Store
 
 # C extensions
 *.so
