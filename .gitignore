@@ -2,6 +2,10 @@
 */input.txt
 */example.txt
 
+# AoC Tiles
+.aoc_tiles/*
+!.aoc_tiles/tiles/
+
 # Other
 template.py
 .vscode/
