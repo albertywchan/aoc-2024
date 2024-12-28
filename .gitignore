@@ -1,6 +1,5 @@
 # Advent of Code copyright (https://adventofcode.com/about#legal)
-*/input.txt
-*/example.txt
+**/*.txt
 
 # AoC Tiles
 .aoc_tiles/*
